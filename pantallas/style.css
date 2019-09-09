@@ -1,0 +1,22 @@
+label, input{
+    display: block;
+}
+.btn {
+    border: none;
+    background-color: gray;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+input[type=submit]{
+
+    border: none;
+    background-color: gray;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    
+    
+}
