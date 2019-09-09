@@ -1,0 +1,12 @@
+Como están distribuidas:
+
+La primera pantalla sería la de inicio de sesión, ahí estará para iniciar sesión o crear una cuenta, esta conectaría 
+con la de nuevo paciente o nuevo personal según lo que se seleccione.
+
+Al acceder como doctor se mostrará la pantalla de doctor en esta están las opciones que tiene el doctor, al seleccionar
+ un paciente es especifico se mostrara la pantalla de doctor2 donde están las demás opciones para trabajar con ese paciente. 
+
+En ambas pantallas esta la opción de medicamentos, que conecta con la pantalla de medicamentos que sirve para que el doctor
+ pueda ver los medicamentos disponibles o realizar la petición del alguno.
+
+Por otro lado de forma aislada esta la pantalla del  usuario que aún no está definido que se le a mostrar cuando este esté logeado. 
